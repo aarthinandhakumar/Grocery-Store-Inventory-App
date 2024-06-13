@@ -1,0 +1,7 @@
+[
+  { "sku": "001", "name": "Eggs", "description": "Freshly laid", "qty": 12, "price": 1.5, "imageUrl": "/eggs.jpg" },
+  { "sku": "002", "name": "Corn", "description": "Golden Corn", "qty": 2, "price": 1.2, "imageUrl": "/corn.jpg" },
+  { "sku": "003", "name": "Potato", "description": "Russett Potatoes", "qty": 6, "price": 1.0, "imageUrl": "/potatoes.jpg" },
+  { "sku": "004", "name": "Milk", "description": "1L Milk", "qty": 10, "price": 1.2, "imageUrl": "/milk.jpg" },
+  { "sku": "005", "name": "Cookies", "description": "Oatmeal raisin", "qty": 10, "price": 1.8, "imageUrl": "/cookies.jpg" }
+]
