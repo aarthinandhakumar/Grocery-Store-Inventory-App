@@ -64,4 +64,4 @@ Contributions are welcome! Please create a new branch and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE] (License.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.txt) file for details.
